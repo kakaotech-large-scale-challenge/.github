@@ -20,7 +20,9 @@
 # 🚩 대회설명 <a name = "idea"></a>
 ### 대규모 서비스 개발 및 운영을 위한 실전 엔지니어링 대회
 ## 기본 설명
-<img width="1171" alt="스크린샷 2024-12-17 오후 2 07 53" src="https://github.com/user-attachments/assets/a5d7678c-04ef-48da-b4e0-8918fade9269" />
+### KakaoTechBootcamp AI Chat 서비스 소개
+
+<img width="1176" alt="스크린샷 2024-12-17 오후 4 35 14" src="https://github.com/user-attachments/assets/f8c060ae-6ce5-4bf5-8362-3b21d2216270" />
 
 - 기존에 만들어져 있는 서비스를 각 팀들에게 제공하고,해당 서비스를 최적화하여 최대한의 부하를 견딜 수 있도록 설계
 
